@@ -1,0 +1,17 @@
+venv/
+env/
+.venv/
+
+# Thư mục cache của Python
+__pycache__/
+*.pyc
+
+# Các file cấu hình của trình soạn thảo code (nếu dùng VS Code/PyCharm)
+.vscode/
+.idea/
+
+# Model
+BERT_model/
+
+# Dataset
+data/
